@@ -3,7 +3,7 @@
 ![Logo do Projeto](https://astraya-associacao.org/imagens/hp_rum.png?_t=1767806937)
 
 HP RUM 9.23 Engine
-Gerenciamento de performance (APM – Application Peformance Management) que será implementada na TIM.
+Gerenciamento de performance (APM – Application Peformance Management) implementada na TIM.
 
 ---
 
